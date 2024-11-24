@@ -1,16 +1,36 @@
-<h3 align="center">A passionate frontend developer from Austria</h3>
+# 👋 Hi there! I'm Gökhan Yurtsever
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhanyurtsever&label=Profile%20views&color=0e75b6&style=flat" alt="gokhanyurtsever" /> </p>
+## 💻 Software Developer | 🌍 Vienna, Austria
 
-- 🌱 I’m currently learning **Javascript and React**
+I'm passionate about creating beautiful, responsive, and user-friendly web applications. Currently, I'm focusing on mastering React and React Native to build powerful cross-platform solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/gokhanyurtsever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gokhanyurtsever" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gokhanyurtsever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokhanyurtsever" height="30" width="40" /></a>
-</p>
+### 🚀 Quick Facts
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 I'm currently working on expanding my portfolio with React projects
+- 🌱 I'm learning advanced JavaScript concepts and diving deeper into React
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about software development, React, or life in Vienna!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokhanyurtsever&show_icons=true&locale=en" alt="gokhanyurtsever" /></p>
+### 🛠 Tech stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 📈 GitHub Stats
+
+![Gökhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokhanyurtsever&show_icons=true&theme=radical)
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokhanyurtsever)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/gokhanyurtsever)
+
+---
+
+💼 Open to new software development opportunities in Vienna or remote! Let's create amazing software solutions together!
