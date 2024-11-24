@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Gökhan Yurtsever
+# 👋 Hi there! I'm Gokhan Yurtsever
 
 ## 💻 Software Developer | 🌍 Vienna, Austria
 
